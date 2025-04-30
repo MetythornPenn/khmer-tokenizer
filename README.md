@@ -223,3 +223,7 @@ The API server will be available at http://localhost:8000 with documentation at 
     │   └── evaluation/    <- Evaluation logs
     │
     └── docs/              <- Documentation
+
+
+## Reference
+- [bert from sratch with pytorch](https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial)
